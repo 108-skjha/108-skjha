@@ -1,7 +1,7 @@
 # Hi 👋 I'm Shrawan Kumar Jha
 
 🎓 B.Sc. Information Technology Student  
-📊 Currently learning AI and DS  
+📊 Currently learning Artificial Intelligence and Data Science  
 📍 Jhanjharpur, Madhubani, Bihar, India  
 
 📧 Email: shrawanjha2004@gmail.com  
@@ -10,9 +10,31 @@
 ---
 
 ## 👨‍🎓 About Me
-Information Technology student with strong fundamentals in computer networking, Linux and Windows operating systems, computer hardware, database concepts and coding. Hands-on experience through academic and personal projects involving web applications, client–server architecture, and SQL databases.Familiar with SDLC, IT troubleshooting, cloud concepts, and version control using Git and GitHub.
 
-I am passionate about understanding how data-driven systems work and how AI can be applied to solve real-world problems. I am continuously improving my technical skills through coursework, certifications, and hands-on learning.
+I am an Information Technology student with strong fundamentals in computer networking, Linux and Windows operating systems, computer hardware, database concepts, and coding. I have hands-on experience through academic and personal projects involving system design, client–server architecture, and database-driven applications. I am familiar with SDLC, IT troubleshooting, cloud concepts, and version control using Git and GitHub.
+
+I am passionate about understanding how **data-driven systems work** and how **Artificial Intelligence** can be applied to solve real-world problems. I am continuously improving my technical skills through coursework, certifications, and practical learning.
+
+---
+
+## 🚀 Projects
+
+### Examination Management System
+- Developed a web-based system to conduct and manage online examinations with secure authentication.
+- Implemented features such as exam scheduling, question management, automated evaluation, and result analysis.
+- Designed the system using client–server architecture with database integration.
+- Gained practical experience in system workflow design, data handling, and role-based access control.
+
+### Let’s Code Together
+- Built a collaborative coding platform concept focused on learning and teamwork.
+- Supports writing and executing code for multiple programming languages in an online environment.
+- Includes real-time collaboration features, integrated chat, and smart code assistance.
+- Helped in understanding scalable system design and collaborative workflows.
+
+### Let’s Chat
+- Created a real-time messaging system allowing users to register, authenticate, and communicate securely.
+- Implemented chat rooms, message storage, and real-time data exchange.
+- Strengthened understanding of database-backed applications and real-time communication concepts.
 
 ---
 
@@ -84,6 +106,4 @@ Lalit Narayan Janta College, Jhanjharpur, Bihar
 
 ---
 
-
 ⭐ *Thank you for visiting my GitHub profile.*
-
