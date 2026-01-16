@@ -2,7 +2,7 @@
 
 🎓 B.Sc. Information Technology Student  
 📊 Currently learning AI and DS  
-📍 Patna, Bihar, India  
+📍 Jhanjharpur, Madhubani, Bihar, India  
 
 📧 Email: shrawanjha2004@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/shrawan-kumar-jha  
