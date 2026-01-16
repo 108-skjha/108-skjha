@@ -10,7 +10,7 @@
 ---
 
 ## 👨‍🎓 About Me
-Information Technology student with strong fundamentals in computer networking, Linux and Windowsoperating systems, computer hardware, database concepts and coding. Hands-on experience throughacademic and personal projects involving web applications, client–server architecture, and SQL databases.Familiar with SDLC, IT troubleshooting, cloud concepts, and version control using Git and GitHub. Seeking anentry-level role to apply technical knowledge and problem-solving skills in a professional IT environment.
+Information Technology student with strong fundamentals in computer networking, Linux and Windowsoperating systems, computer hardware, database concepts and coding. Hands-on experience throughacademic and personal projects involving web applications, client–server architecture, and SQL databases.Familiar with SDLC, IT troubleshooting, cloud concepts, and version control using Git and GitHub.
 
 I am passionate about understanding how data-driven systems work and how AI can be applied to solve real-world problems. I am continuously improving my technical skills through coursework, certifications, and hands-on learning.
 
